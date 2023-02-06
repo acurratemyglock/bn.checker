@@ -16,10 +16,13 @@ git clone https://github.com/acurratemyglock/bn.checker.git
 cd bn.checker
 
 
-pip install -r requirements.txt
-
-
 python2 bn.checker.py
+
+
+
+
+
+
 
 
 
